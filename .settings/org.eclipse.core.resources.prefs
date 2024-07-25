@@ -1,0 +1,6 @@
+eclipse.preferences.version=1
+encoding//src/main/java/Filter/AuthFilter.java=UTF-8
+encoding//src/main/java/Filter/SessionExpirationFilter.java=UTF-8
+encoding//src/main/java/Utils/XCookie.java=UTF-8
+encoding//src/main/java/Utils/XForm.java=UTF-8
+encoding//src/main/java/Utils/XScope.java=UTF-8
